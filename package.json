@@ -1,0 +1,23 @@
+{
+  "name": "keto-middlware-proxy",
+  "version": "1.0.0",
+  "description": "middleware proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "brett chaldecott",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "file-reader": "^1.1.1",
+    "http-proxy": "^1.18.0",
+    "js-crypto-rsa": "^0.5.11",
+    "node-fetch": "^2.6.0",
+    "node-rsa": "^1.0.6",
+    "protobufjs": "^6.8.8",
+    "read-file": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
