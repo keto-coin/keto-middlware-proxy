@@ -74,8 +74,11 @@ authenticate()
 
 proxy.on('proxyReq', function(proxyReq, req, res, options) {
   console.log("set the session header %s",sessionHashHex);
+
   proxyReq.setHeader('session_hash', sessionHashHex);
+
   authenticate()
+
 })
 
 //
