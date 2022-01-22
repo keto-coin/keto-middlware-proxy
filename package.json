@@ -14,7 +14,7 @@
     "file-reader": "^1.1.1",
     "http-proxy": "^1.18.0",
     "js-crypto-rsa": "^0.5.11",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "node-rsa": "^1.0.6",
     "protobufjs": "^6.8.8",
     "read-file": "^0.2.0",
