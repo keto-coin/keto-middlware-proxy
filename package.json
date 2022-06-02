@@ -16,7 +16,7 @@
     "js-crypto-rsa": "^0.5.11",
     "node-fetch": "^2.6.0",
     "node-rsa": "^1.0.6",
-    "protobufjs": "^6.8.8",
+    "protobufjs": "^6.11.3",
     "read-file": "^0.2.0",
     "request": "^2.88.0"
   }
